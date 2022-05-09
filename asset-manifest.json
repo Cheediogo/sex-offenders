@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sex-offenders/static/css/main.735365fb.css",
+    "main.js": "/sex-offenders/static/js/main.f5d5645e.js",
+    "static/js/787.c6382396.chunk.js": "/sex-offenders/static/js/787.c6382396.chunk.js",
+    "static/media/dume.JPG": "/sex-offenders/static/media/dume.21460302aa494d76e89b.JPG",
+    "static/media/coat_of_arm.jpg": "/sex-offenders/static/media/coat_of_arm.e3e525a109dc59e4d5ae.jpg",
+    "index.html": "/sex-offenders/index.html",
+    "main.735365fb.css.map": "/sex-offenders/static/css/main.735365fb.css.map",
+    "main.f5d5645e.js.map": "/sex-offenders/static/js/main.f5d5645e.js.map",
+    "787.c6382396.chunk.js.map": "/sex-offenders/static/js/787.c6382396.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.735365fb.css",
+    "static/js/main.f5d5645e.js"
+  ]
+}
